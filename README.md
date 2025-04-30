@@ -12,7 +12,7 @@ NanoShield is a lightweight, fast, and secure **inter-service authentication sys
 
 ## 📦 Modules
 
-- `nano-shield-core`: Token generator & validator logic
+
 - `service-a`: Token producer and sender service
 - `service-b`: Token validator and secured endpoint
 
